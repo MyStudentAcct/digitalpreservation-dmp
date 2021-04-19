@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Effects of Lockdowns on COVID-19 Cases in Austria</dc:title>
+<dc:creator>Dennis Leser (https://orcid.org/0000-0001-6898-0103)</dc:creator>
+<dc:subject>Investigate the Effects of Lockdowns on COVID-19 Cases in Austria</dc:subject>
+<dc:description>This experiment aims to show which locations are the major reasons for increasing COVID-19 cases in Austria.</dc:description>
+<dc:date>17.04.2021</dc:date>
+<dc:type>DataGeneration</dc:type>
+<dc:format>Jupyternotebook</dc:format>
+<dc:source>Entwicklung der täglich neu gemeldeten Fallzahl des Coronavirus (COVID-19) in Österreich seit 25. Februar 2020: BMSGPK (Österreich) (2021)</dc:source>
+<dc:source>COVID-19: Google Mobility TrendsCOVID-19: Google LLC "Google COVID-19 Community Mobility Reports" (2021)</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>2020 - present</dc:coverage>
+<dc:rights>Free access</dc:rights>
+
+</metadata>

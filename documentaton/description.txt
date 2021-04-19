@@ -1,0 +1,9 @@
+covid_19_cases_with_mobility_trends_of_austria.png:
+The X-Axis describes the timeline for which the data was analyzed.
+The Y-Axis (left) describes how the number of visitors (or time spent in percent) in categorized places has changed compared to baseline days (the median value for the 5‑week period from January 3 to February6, 2020).
+The Y-Axis (right) describes the number of COVID-19 casis in Austria.
+The number of COVID-19 cases are given as a counter of documented UFO COVID-19 cases in Austria.
+
+correlation_heatmap.png:
+It shows the correlation coeff. between the features 'retail_and_recreation', 'grocery_and_pharmacy', 'residential', 'transit_stations', 'parks', 'workplaces' and 'Number of Cases'.
+
