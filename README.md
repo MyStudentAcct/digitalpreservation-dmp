@@ -15,7 +15,7 @@ Prior to running the experiment make sure that the following folders exist in th
 
 The cited datasource 'COVID-19: Google Mobility TrendsCOVID-19' has already been added to this repository.
 
-Due the fact that I haven't a Corporate- or Enterprise-Account on https://de.statista.com/, I'm not able to share this datasource. But in order to get this datasoure, please follow these instructions:
+Due the fact that I haven't a Corporate- or Enterprise-Account on https://de.statista.com/, I'm not able to share the datasource 'Entwicklung der täglich neu gemeldeten Fallzahl des Coronavirus (COVID-19) in Österreich seit 25. Februar 2020'. But in order to get this datasoure, please follow these instructions:
 
 1. Go to https://de.statista.com/ an create a free basic account.
 2. Use the URL https://de.statista.com/statistik/daten/studie/1150777/umfrage/entwicklung-der-taeglichen-fallzahl-des-coronavirus-in-oesterreich/ to find the regarding dataset (status as of 14th April 2021; it's irrelevant if there is a newer version with a longer time series available, because if you run the code, it will be cut, in order to replicate the results in the documentation).
