@@ -10,8 +10,8 @@ Prior to running the experiment make sure that the following folders exist in th
 
 ## Data Sources
 
-* Entwicklung der täglich neu gemeldeten Fallzahl des Coronavirus (COVID-19) in Österreich seit 25. Februar 2020 (Accessed on 14 April 2021) downloaded from the webpage https://de.statista.com/statistik/daten/studie/1150777/umfrage/entwicklung-der-taeglichen-fallzahl-des-coronavirus-in-oesterreich/
-* COVID-19: Google Mobility TrendsCOVID-19: Google Mobility Trends (Accessed on 14 April 2021) downloaded from the webpage https://ourworldindata.org/covid-google-mobility-trends
+* Entwicklung der täglich neu gemeldeten Fallzahl des Coronavirus (COVID-19) in Österreich seit 25. Februar 2020: BMSGPK (Österreich) (2021) (Accessed on 14 April 2021) downloaded from the webpage https://de.statista.com/statistik/daten/studie/1150777/umfrage/entwicklung-der-taeglichen-fallzahl-des-coronavirus-in-oesterreich/
+* COVID-19: Google Mobility TrendsCOVID-19: Google Mobility Trends: Google LLC "Google COVID-19 Community Mobility Reports" (2021) (Accessed on 14 April 2021) downloaded from the webpage https://ourworldindata.org/covid-google-mobility-trends
 
 The cited datasource 'COVID-19: Google Mobility TrendsCOVID-19' has already been added to this repository.
 
