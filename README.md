@@ -13,7 +13,13 @@ Prior to running the experiment make sure that the following folders exist in th
 * Entwicklung der täglich neu gemeldeten Fallzahl des Coronavirus (COVID-19) in Österreich seit 25. Februar 2020 (Accessed on 14 April 2021) downloaded from the webpage https://de.statista.com/statistik/daten/studie/1150777/umfrage/entwicklung-der-taeglichen-fallzahl-des-coronavirus-in-oesterreich/
 * COVID-19: Google Mobility TrendsCOVID-19: Google Mobility Trends (Accessed on 14 April 2021) downloaded from the webpage https://ourworldindata.org/covid-google-mobility-trends
 
-Download these files to the folder *raw_data*
+The cited datasource 'COVID-19: Google Mobility TrendsCOVID-19' has already been added to this repository.
+
+Due the fact that I haven't a Corporate- or Enterprise-Account on https://de.statista.com/, I'm not able to share this datasource. But in order to get this datasoure, please follow these instructions:
+
+1. Go to https://de.statista.com/ an create a free basic account.
+2. Use the URL https://de.statista.com/statistik/daten/studie/1150777/umfrage/entwicklung-der-taeglichen-fallzahl-des-coronavirus-in-oesterreich/ to find the regarding dataset (status as of 14th April 2021; it's irrelevant if there is a newer version with a longer time series available, because if you run the code, it will be cut, in order to replicate the results in the documentation).
+3. Download the dataset as an excel file into the folder *raw_data* and rename it to 'statistic_id1150777.xlsx'
 
 ## Running the code
 
@@ -23,7 +29,7 @@ Run *pip install -r requirements.txt* to install the required dependencies.
 
 Once the dependencies have been installed, start the jupyter notebook server via jupyter notebook and open http://localhost:8888.
 
-In the notebooks folder you'll find the following notebook:
+In this repository you'll find the following notebook:
 
 * *main_file.ipynb*: This notebook takes the raw data as input and generates two plots to visualize the time series data and the correlations.
 
